@@ -81,4 +81,5 @@ MiniBatchKMeans类的主要参数比KMeans类稍多，主要有：
 **K值的评估标准** 
 不像监督学习的分类问题和回归问题，无监督聚类没有样本输出，也就没有比较直接的聚类评估方法。但是可以从簇内的稠密程度和簇间的离散程度来评估聚类的效果。常见的方法有轮廓系数Silhouette Coefficient和Calinski-Harabasz Index。个人比较喜欢Calinski-Harabasz Index，这个计算简单直接，得到的Calinski-Harabasz分数值s越大则聚类效果越好。
 
-六、如何证明其收敛性？
+
+
