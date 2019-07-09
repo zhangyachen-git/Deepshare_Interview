@@ -1,0 +1,20 @@
+第二周：本周学习内容总结
+2019-07-07 00:00 至 2019-07-07 23:59
+任务简介：
+第二周LeetCode作业截至提示
+温故而知新，简单回顾本周学到几个重要知识
+
+详细说明：
+请一定在今天完成本周LeetCode全部题目
+
+Leetcode算法题：
+二分（题号：69）：https://leetcode.com/problems/sqrtx/description/
+分治（题号：241）：https://leetcode.com/problems/different-ways-to-add-parentheses/description/
+链表（题号：160）：https://leetcode.com/problems/intersection-of-two-linked-lists/description/
+哈希表（题号：1）：https://leetcode.com/problems/two-sum/description/
+字符串（题号：242）：https://leetcode.com/problems/valid-anagram/description/
+栈和队列（题号：232）：https://leetcode.com/problems/implement-queue-using-stacks/description/
+
+打卡要求：请用文字描述，本周所学知识的重点，格式不限，思维导图、手写、电子版均可
+打卡内容：不少于50字
+打卡截止日期：7/7
