@@ -1,0 +1,24 @@
+第三周：LeetCode刷题
+2019-07-09 00:00 至 2019-07-14 23:59
+任务简介：LeetCode算法作业打卡日，完成本周LeetCode题目作业，并且提交通过，进行打卡
+ 
+详细说明：
+答案在下周LeetCode任务布置后公布
+
+LeetCode算法题：
+字符串：https://leetcode.com/problems/longest-palindrome/description/
+数组和矩阵：https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/description/
+位运算：https://leetcode.com/problems/single-number-iii/description/
+
+数学
+进制转换：https://leetcode.com/problems/base-7/description/
+相遇问题：https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/description/
+多数投票问题：https://leetcode.com/problems/majority-element/description/
+ 
+第二周LeetCode参考答案：
+链接：https://pan.baidu.com/s/19qAtmWbc1sXUWFEFb4wH2g 
+提取码：wcx4
+
+打卡要求：LeetCode作业中所有题目通过截图提交
+打卡内容：至少上传6张图片
+打卡截止提交时间：7/14
