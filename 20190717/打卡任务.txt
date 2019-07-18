@@ -1,0 +1,27 @@
+第四周：LeetCode刷题
+2019-07-16 00:00 至 2019-07-21 23:59
+任务简介：LeetCode算法作业打卡日，完成本周LeetCode题目作业，并且提交通过，进行打卡
+ 
+详细说明：
+答案在下周LeetCode任务布置后公布
+Leetcode算法题：
+树：
+递归（110）：https://leetcode.com/problems/balanced-binary-tree/description/
+层次遍历（513）：https://leetcode.com/problems/find-bottom-left-tree-value/description/
+前中后序遍历（144）：https://leetcode.com/problems/binary-tree-preorder-traversal/description/
+BST（230）：https://leetcode.com/problems/kth-smallest-element-in-a-bst/description/
+Trie（208）：https://leetcode.com/problems/implement-trie-prefix-tree/description/
+
+图：
+二分图（785）：https://leetcode.com/problems/is-graph-bipartite/description/
+拓扑排序（207）：https://leetcode.com/problems/course-schedule/description/
+并查集（684）：https://leetcode.com/problems/redundant-connection/description/
+ 
+第三周LeetCode参考答案：
+链接：https://pan.baidu.com/s/1kpEu2QAzRQgBOZKav8mGcA 
+提取码：x041
+
+
+打卡要求：LeetCode作业中所有题目通过截图提交
+打卡内容：至少上传8张图片
+打卡截止提交时间：7/21
