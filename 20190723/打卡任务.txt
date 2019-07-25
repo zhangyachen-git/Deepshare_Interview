@@ -1,0 +1,30 @@
+第五周：LeetCode刷题
+2019-07-23 00:00 至 2019-07-28 23:59
+任务简介：LeetCode算法作业打卡日，完成本周LeetCode题目作业，并且提交通过，进行打卡
+ 
+详细说明：
+答案在本周日公布
+
+LeetCode算法题：
+搜索：
+BFS（279）：https://leetcode.com/problems/perfect-squares/description/
+DFS（695）：https://leetcode.com/problems/max-area-of-island/description/
+Backtracking（17）：https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/
+
+动态规划：
+斐波那契数列（70）：https://leetcode.com/problems/climbing-stairs/description/
+矩阵路径（64）：https://leetcode.com/problems/minimum-path-sum/description/
+数组区间（303）：https://leetcode.com/problems/range-sum-query-immutable/description/
+分割整数（343）：https://leetcode.com/problems/integer-break/description/
+最长递增子序列（300）：https://leetcode.com/problems/longest-increasing-subsequence/description/
+0-1 背包（416）：https://leetcode.com/problems/partition-equal-subset-sum/description/
+股票交易（309）：https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/description/
+字符串编辑（583）：https://leetcode.com/problems/delete-operation-for-two-strings/description/
+
+第四周LeetCode刷题参考答案：
+链接：https://pan.baidu.com/s/1BvLJbAWRxCHEejod-sf7iQ 
+提取码：q8uw
+ 
+打卡要求：LeetCode作业中所有题目通过截图提交
+打卡内容：总共有11张图片，提交9张即可
+打卡截止提交时间：7/28
